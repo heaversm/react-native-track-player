@@ -13,6 +13,7 @@ yarn build
 cd example
 yarn
 cd ios && pod install && cd ..
+npx react-native start
 ```
 
 ## Library Development
